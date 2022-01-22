@@ -11,3 +11,6 @@
    - Translate simple sentences into first order logic formulas and carry out inference
    - Build distributional models of word meaning from corpora
    - Define various kinds of discourse coherence and know how they can be represented computationally
+
+----
+* `tree_syntax.pdf` is a very useful learning material when it comes to remember what the syntax actually means in a parse tree.
