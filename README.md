@@ -25,6 +25,15 @@ Syntactic corpora, popular grammar formalisms and associated parsing tools and a
    - Use statistics to disambiguate language to find the best parse
    - Evaluate parsing output relative to gold standard treebanks
 
+---
+
+## 4. sentiment_analysis:
+
+   - Apply appropriate resources when carrying out lexicon-based polarity classification
+   - Identify challenges and potential solutions associated with identifying sentiment targets
+   - Carry out fine-grained sentiment analysis with large datasets using appropriate machine learning techniques
+   - Track sentiment over time, space, and topic using social media datasets
+
 
 ----
 * `tree_syntax.pdf` is a very useful learning material when it comes to remember what the syntax actually means in a parse tree.
